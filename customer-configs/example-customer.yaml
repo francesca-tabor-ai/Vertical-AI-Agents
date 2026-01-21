@@ -5,7 +5,7 @@ customer_id: example-customer
 customer_name: Example Corp
 
 # Model settings
-model: claude-sonnet-4-20250514
+model: sonnet
 max_tokens: 4096
 temperature: 0.7
 

@@ -1,0 +1,7 @@
+customer_id,customer_name,mrr,start_date,status,plan,industry
+cust-001,Acme Corp,1500,2024-06-01,active,professional,SaaS
+cust-002,TechStart Inc,1500,2024-06-15,active,professional,Tech
+cust-003,GlobalRetail,2500,2024-07-01,active,enterprise,Retail
+cust-004,HealthFirst,1500,2024-07-15,active,professional,Healthcare
+cust-005,FinanceFlow,2500,2024-08-01,active,enterprise,Finance
+cust-006,DataDriven Co,1500,2024-08-15,churned,professional,Tech

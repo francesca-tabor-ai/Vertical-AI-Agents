@@ -1,0 +1,22 @@
+{
+  "test_cases": [
+    {
+      "id": "test-001",
+      "description": "Basic document classification",
+      "input": {
+        "document_text": "Please find attached the invoice for your recent purchase.",
+        "categories": ["invoice", "receipt", "contract", "letter"]
+      },
+      "expected_output": "invoice"
+    },
+    {
+      "id": "test-002",
+      "description": "Contract classification",
+      "input": {
+        "document_text": "This agreement is entered into between Party A and Party B...",
+        "categories": ["invoice", "receipt", "contract", "letter"]
+      },
+      "expected_output": "contract"
+    }
+  ]
+}
